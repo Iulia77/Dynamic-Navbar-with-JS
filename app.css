@@ -1,0 +1,29 @@
+/* reset css*/
+body {
+  margin: 0;
+  background-color: #111;
+  font-family: Arial;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+
+/*navbar component style*/
+.navbar {
+  background-color: #456;
+  padding: 10px;
+}
+
+.navbar li {
+  display: inline-block;
+}
+.navbar a {
+  color: white;
+  padding: 10px;
+  display: block;
+}
